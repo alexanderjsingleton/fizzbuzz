@@ -44,6 +44,7 @@ Translate Rspec into Assert Statements or [Driver Test Code](https://github.com/
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+Please review my [blog post for academic analysis](https://www.alexanderjsingleton.com/a-contribution-to-danielle-suchers-ruby-case-vs-conditional-if-and-a-wee-bit-about-unless/).  Thanks!
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 
